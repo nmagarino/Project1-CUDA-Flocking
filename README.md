@@ -8,3 +8,10 @@ Project 1 - Flocking**
 ### READ-ME
 
 ![](/images/boidsGif.gif)
+
+![](/images/FPS vs. # Boids (Visualization).PNG)
+
+![](/images/FPS vs. # Boids (No Visualization).PNG)
+
+![](/images/FPS vs. Block Size.PNG)
+
