@@ -9,6 +9,8 @@ Project 1 - Flocking**
 
 ![](/images/boidsGif.gif)
 
+**Performance Analysis
+
 ![](/images/visual.png)
 
 ![](/images/novisual.png)
