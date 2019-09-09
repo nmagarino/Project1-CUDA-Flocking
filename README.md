@@ -1,11 +1,11 @@
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture,
 Project 1 - Flocking**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Nicholas Magarino
+  * [https://www.linkedin.com/in/nicholasmagarino/](), [https://www.nickmagarino.com/]()
+* Tested on: Windows 10 Home Version 1803, i5-8300H @ 2.30GHz 8GB, GeForce GTX 1050 8GB (MSI GL63 8RC Laptop)
 
-### (TODO: Your README)
+### READ-ME
 
 Include screenshots, analysis, etc. (Remember, this is public, so don't put
 anything here that you don't want to share with the world.)
