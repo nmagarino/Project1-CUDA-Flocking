@@ -9,9 +9,9 @@ Project 1 - Flocking**
 
 ![](/images/boidsGif.gif)
 
-![](/images/FPS_vs._#_Boids_(Visualization).png)
+![](/images/visual.PNG)
 
-![](/images/FPS vs. # Boids (No Visualization).PNG)
+![](/images/novisual.PNG)
 
-![](/images/FPS vs. Block Size.PNG)
+![](/images/blocksize.PNG)
 
