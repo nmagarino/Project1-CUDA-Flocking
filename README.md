@@ -9,7 +9,7 @@ Project 1 - Flocking**
 
 ![](/images/boidsGif.gif)
 
-![](/images/visual.PNG)
+![](/images/visual.png)
 
 ![](/images/novisual.PNG)
 
