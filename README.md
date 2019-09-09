@@ -9,11 +9,17 @@ Project 1 - Flocking**
 
 ![](/images/boidsGif.gif)
 
-**Performance Analysis
+**Performance Analysis**
 
 ![](/images/visual.png)
 
 ![](/images/novisual.png)
 
+For each implementation, increasing the number of boids generally decreases the framerate as more neighbor boid data accesses are done per boid.
+
 ![](/images/blocksize.png)
+
+Increasing the CUDA kernels' block size generally improved performance, as doing so allows more threads to run in parallel on the GPU.
+
+In all, the coherent grid had greater performance than any other implementation, as expected, as this method allowed the most data to be continguous in memory, thus decreasing the time needed to access the next piece of data.
 
