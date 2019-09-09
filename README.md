@@ -11,7 +11,7 @@ Project 1 - Flocking**
 
 ![](/images/visual.png)
 
-![](/images/novisual.PNG)
+![](/images/novisual.png)
 
-![](/images/blocksize.PNG)
+![](/images/blocksize.png)
 
