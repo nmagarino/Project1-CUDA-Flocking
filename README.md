@@ -7,4 +7,4 @@ Project 1 - Flocking**
 
 ### READ-ME
 
-![](/images/boidsGif.GIF)
+![](/images/boidsGif.gif)
