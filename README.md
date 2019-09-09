@@ -9,6 +9,8 @@ Project 1 - Flocking**
 
 ![](/images/boidsGif.gif)
 
+Boids are particles that follow three rules: cohesion, separation, and alignment, and check their neighboring boids to compute their velocity on the next frame of the simulation.
+
 **Performance Analysis**
 
 ![](/images/visual.png)
@@ -22,4 +24,6 @@ For each implementation, increasing the number of boids generally decreases the 
 Increasing the CUDA kernels' block size generally improved performance, as doing so allows more threads to run in parallel on the GPU.
 
 In all, the coherent grid had greater performance than any other implementation, as expected, as this method allowed the most data to be continguous in memory, thus decreasing the time needed to access the next piece of data.
+
+Decreasing cell width reduces performance, as it adds more overall cells to check.  In general, more cells results in more memory access that may not be contiguous, reducing performance.
 
